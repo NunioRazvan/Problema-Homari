@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1717004759 source:c:\users\adrian\desktop\scoala\facultate\teme\c codeblocks\randomlobster\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<unistd.h>
+	"random.h"
+
+1717003478 c:\users\adrian\desktop\scoala\facultate\teme\c codeblocks\randomlobster\random.h
+
+1717004520 source:c:\users\adrian\desktop\scoala\facultate\teme\c codeblocks\randomlobster\random.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<unistd.h>
+	"random.h"
+
